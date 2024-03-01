@@ -1,0 +1,12 @@
+﻿{
+  "Id": "PlayableAdeptaSororitas",
+  "DisplayName": "Playable Adepta Sororitas",
+  "Author": "ADDB",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.25.0",
+  "Requirements": [],
+  "AssemblyName": "PlayableAdeptaSororitas.dll",
+  "EntryMethod": "PlayableAdeptaSororitas.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}

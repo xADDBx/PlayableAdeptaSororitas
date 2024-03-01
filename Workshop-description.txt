@@ -1,0 +1,20 @@
+[h1]Playable Adepta Sororitas[/h1]
+Makes the Adepta Sororitas Origin pickeable for your Rogue Trader at Game Start.
+This might also enable you to recruit multiple Adepta Sororitas mercenaries.
+
+[h2]Usage[/h2]
+To use:
+[olist]
+[*][b]Before you start the character creation:[/b] Click the button in the Playable Adepta Sororitas mod section of the UnityModManager GUI.
+[*]Turn the "Create Adepta Sororitas" toggle on.
+[*]Now start creating a new character
+[*]After finishing the character creation don't forget to turn the toggle back off.
+[/olist]
+
+[h2]Additional Information[/h2]
+[list]
+[*]Because the Adepta Sororitas Origin doesn't have any Darkest Hours and Moments of Triumph I've unlocked all of them for the Adepta Sororitas.
+[/list]
+
+[h2]Installation[/h2]
+Installation is similar to [url=https://github.com/cabarius/ToyBox/wiki/Installing-Toybox-for-RT-(Steam-Workshop-Edition)] how it's done with ToyBox[/url].
