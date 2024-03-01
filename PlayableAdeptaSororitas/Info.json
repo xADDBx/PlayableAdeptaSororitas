@@ -7,6 +7,6 @@
   "Requirements": [],
   "AssemblyName": "PlayableAdeptaSororitas.dll",
   "EntryMethod": "PlayableAdeptaSororitas.Main.Load",
-  "HomePage": "",
-  "Repository": ""
+  "HomePage": "https://www.nexusmods.com/warhammer40kroguetrader/mods/109",
+  "Repository": "https://raw.githubusercontent.com/xADDBx/PlayableAdeptaSororitas/master/Repository.json"
 }

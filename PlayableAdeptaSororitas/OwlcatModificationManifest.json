@@ -5,8 +5,8 @@
   "Description": "Playable Adepta Sororitas",
   "Author": "ADDB",
   "ImageName": "Thumbnail.jpg",
-  "WorkshopId": "",
-  "Repository": "",
-  "HomePage": "",
+  "WorkshopId": "3170785551",
+  "Repository": "https://raw.githubusercontent.com/xADDBx/PlayableAdeptaSororitas/master/Repository.json",
+  "HomePage": "https://www.nexusmods.com/warhammer40kroguetrader/mods/109",
   "Dependencies": []
 }
